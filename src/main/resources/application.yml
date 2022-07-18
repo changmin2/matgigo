@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://database-demo.ckoj2clp6ruc.us-west-1.rds.amazonaws.com:3306/matgigodb?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    url: **?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
     username: admin
     password: gkfdkqjwl1
 
